@@ -33,5 +33,5 @@ Bibliotheken (über Arduino IDE, außer SHT21):
 - TimeLib.h
 - Wire.h
 - Adafruit_BMP085.h
-- SHT21.h (https://github.com/e-radionicacom/SHT21-Arduino-Library)
+- SHT21.h (https://github.com/markbeee/SHT21)
 - PubSubClient.h
