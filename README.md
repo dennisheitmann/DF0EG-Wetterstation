@@ -19,3 +19,19 @@ const char mqtt_pass[]    = "XXXX";
 
 const char aprs_login[]   = "user XXXXX-XX pass XXXXX";
 </pre>
+
+Bibliotheken (über Arduino IDE, außer SHT21):
+- ESP8266WiFi.h
+- WiFiUdp.h
+- ESP8266mDNS.h
+- DNSServer.h
+- ESP8266WebServer.h
+- WiFiManager.h
+- ESP8266WiFiMulti.h
+- ESP8266HTTPClient.h
+- NTPClient.h
+- TimeLib.h
+- Wire.h
+- Adafruit_BMP085.h
+- SHT21.h (https://github.com/e-radionicacom/SHT21-Arduino-Library)
+- PubSubClient.h
