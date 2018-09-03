@@ -131,7 +131,7 @@ void setup(void) {
   //Wire.begin(int sda, int scl);
   Wire.begin(D2, D1);
   bmp.begin();
-  SHT21.begin();
+  // SHT21.begin(); nicht fuer SHT21 Bibliothek notwendig (https://github.com/e-radionicacom/SHT21-Arduino-Library)
 
   /* Zeit holen */
   timeClient.begin();
