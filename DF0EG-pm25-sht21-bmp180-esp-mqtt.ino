@@ -40,7 +40,7 @@ const char mqtt_topic_6[] = "DF0EG/Sensor/RSSI";
 Adafruit_BMP085 bmp;
 float temp_bmp = (-127.0);
 float baro_bmp = (-127.0);
-const int seaLevel = 460;
+const int seaLevel = 430;
 
 /* I2C Luftfeuchtesensor */
 SHT21 SHT21;
