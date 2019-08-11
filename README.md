@@ -40,6 +40,8 @@ Bibliotheken (über Arduino IDE, außer SHT21):
 
 - Adafruit_BMP085.h
 - SHT21.h (https://github.com/markbeee/SHT21)
+
 bzw.
+
 - Adafruit_Sensor.h
 - Adafruit_BME280.h
