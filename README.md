@@ -5,7 +5,9 @@ Wetterstation der Amateurfunk-Clubstation DF0EG in Burghausen
 
 - PIN D7:    DSM501a Feinstaubsensor
 - PIN D1/D2: I2C BMP85 Luftdruck- / Temperatursensor und SHT21 Luftfeuchte- / Temperatursensor
+
 neu 
+
 - PIN D1/D2: I2C BME280 Luftdruck-, Temperatur- und Luftfeuchtesensor
 
 Die Daten werden via Wifi an einen MQTT Broker und ins APRS-Netz gesendet.
